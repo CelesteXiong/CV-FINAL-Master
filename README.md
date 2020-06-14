@@ -15,9 +15,8 @@
 2. 2019 Novel Coronavirus Resource ([2019nCoVR](http://ncov-ai.big.ac.cn/download?lang=en))
    - NCP-Data: 336 subjects, 512 \* 512 \* [40-100] images per subject
    - Normal-Data: 165 subjects, 512 \* 512 \* [40-100] images per subject
-3. UCSD CT Scan Dataset about COVID-19
+3. UCSD CT Scan Dataset about COVID-19([UCSD COVID19-CT](https://github.com/UCSD-AI4H/COVID-CT.git))
    - 349 images from 300+ subjects, 512 \* 512 per image
-4. images from Lung Nodule Analysis (LUNA)
 
 ### Preprocess:
 1. 对于 2D network
