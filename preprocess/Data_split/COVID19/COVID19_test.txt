@@ -1,0 +1,17 @@
+/data/Data/COVID19/444_2042_0073.png
+/data/Data/COVID19/445_2044_0069.png
+/data/Data/COVID19/446_2046_0073.png
+/data/Data/COVID19/447_2048_0069.png
+/data/Data/COVID19/448_2050_0069.png
+/data/Data/COVID19/449_2052_0072.png
+/data/Data/COVID19/44_1221_0062.png
+/data/Data/COVID19/450_2054_0039.png
+/data/Data/COVID19/451_2056_0025.png
+/data/Data/COVID19/452_2059_0031.png
+/data/Data/COVID19/453_2060_0060.png
+/data/Data/COVID19/454_2062_0069.png
+/data/Data/COVID19/455_2064_0066.png
+/data/Data/COVID19/456_2066_0067.png
+/data/Data/COVID19/457_2068_0067.png
+/data/Data/COVID19/458_2070_0065.png
+/data/Data/COVID19/45_1223_0076.png

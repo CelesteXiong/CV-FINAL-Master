@@ -1,0 +1,17 @@
+/data/Data/3D/COVID19/npy/444_2042.npy
+/data/Data/3D/COVID19/npy/445_2044.npy
+/data/Data/3D/COVID19/npy/446_2046.npy
+/data/Data/3D/COVID19/npy/447_2048.npy
+/data/Data/3D/COVID19/npy/448_2050.npy
+/data/Data/3D/COVID19/npy/449_2052.npy
+/data/Data/3D/COVID19/npy/44_1221.npy
+/data/Data/3D/COVID19/npy/450_2054.npy
+/data/Data/3D/COVID19/npy/451_2056.npy
+/data/Data/3D/COVID19/npy/452_2059.npy
+/data/Data/3D/COVID19/npy/453_2060.npy
+/data/Data/3D/COVID19/npy/454_2062.npy
+/data/Data/3D/COVID19/npy/455_2064.npy
+/data/Data/3D/COVID19/npy/456_2066.npy
+/data/Data/3D/COVID19/npy/457_2068.npy
+/data/Data/3D/COVID19/npy/458_2070.npy
+/data/Data/3D/COVID19/npy/45_1223.npy
