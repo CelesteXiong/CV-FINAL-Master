@@ -10,7 +10,7 @@
 
 ### Sources:
 
-1. COVID-19 CT Segmentation Dataset
+1. COVID-19 CT Segmentation Dataset([COVID19-CT](http://medicalsegmentation.com/covid19/))
    - 40+ subjects, 512 \* 512 \* 100 array for all
 2. 2019 Novel Coronavirus Resource ([2019nCoVR](http://ncov-ai.big.ac.cn/download?lang=en))
    - NCP-Data: 336 subjects, 512 \* 512 \* [40-100] images per subject
