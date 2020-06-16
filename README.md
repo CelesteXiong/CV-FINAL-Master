@@ -1,5 +1,9 @@
 # cv_final
 
+| Member         | Work                         |
+| -------------- | ---------------------------- |
+| Yingfan Liu    | Segmentation                 |
+| Shuangyu Xiong | 2D & 3D classification model |
 
 ## 1. Data
 ### Class:
